@@ -2,7 +2,7 @@
 ## my name is
 ![I am a Web Developer ](https://i.ibb.co/3fCwjGF/20221228-000122.jpg)
 
-####I am a web developer. I can store my all project code in this GitHub. You can explore this account. And thank you for visit my profile.
+I am a web developer. I can store my all project code in this GitHub. You can explore this account. And thank you for visit my profile.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
